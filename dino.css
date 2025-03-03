@@ -18,8 +18,9 @@
   }
   
   h1 {
-    margin-bottom: 40px;
-    color: #2c3e50;
+    margin-bottom: 120px;
+    color: #ffffff;
+    background-color: rgb(90, 90, 100);
   }
   
   .cards {
